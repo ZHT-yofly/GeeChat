@@ -1,1 +1,1 @@
-# GeeChat Toekn
+# GeeChat Token
